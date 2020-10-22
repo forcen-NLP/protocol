@@ -66,11 +66,3 @@ In order to run these tests on Kovan testnet, you'll need your own `kovan_keys.j
 yarn deploy-kovan
 yarn test-kovan
 ```
-
-## Contribute
-
-See [our contributing instructions](CONTRIBUTING.md).
-
-### Security Issues
-
-If you find a vulnerability that may affect live or testnet deployments, please send your report privately to [security@meloncouncil.io](mailto:security@meloncouncil.io). Please **DO NOT** file a public issue.
